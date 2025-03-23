@@ -61,7 +61,7 @@ button {
     letter-spacing: 15px;
     font-size: 20px;
     margin-left: 5px;
-    color:red;
+    color:rgb(229, 180, 180);
 }
 
 button:hover {
